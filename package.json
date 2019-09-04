@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-docker",
+  "name": "@kybarg/semantic-release-docker",
   "description": "Set of semantic-release plugins to publish to docker hub",
   "version": "0.0.0-development",
   "engines": {
@@ -8,12 +8,12 @@
   "author": "Felix Becker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/felixfbecker/semantic-release-docker.git"
+    "url": "https://github.com/kybarg/semantic-release-docker.git"
   },
   "bugs": {
-    "url": "https://github.com/felixfbecker/semantic-release-docker/issues"
+    "url": "https://github.com/kybarg/semantic-release-docker/issues"
   },
-  "homepage": "https://github.com/felixfbecker/semantic-release-docker#readme",
+  "homepage": "https://github.com/kybarg/semantic-release-docker#readme",
   "keywords": [
     "docker",
     "hub",
